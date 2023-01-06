@@ -1,0 +1,11 @@
+com\example\weatherApi\models\ForecastWeather.class
+com\example\weatherApi\WeatherApiApplication.class
+com\example\weatherApi\controller\WeatherController.class
+com\example\weatherApi\models\Date.class
+com\example\weatherApi\models\Time.class
+com\example\weatherApi\models\Main.class
+com\example\weatherApi\models\TodaysWeather.class
+com\example\weatherApi\models\Example.class
+com\example\weatherApi\models\Weather.class
+com\example\weatherApi\models\Today.class
+com\example\weatherApi\services\WeatherService.class
